@@ -1,0 +1,9 @@
+D:\Программирование\C#\Проекты\Pass_Checker\bin\Debug\Pass_Checker.exe.config
+D:\Программирование\C#\Проекты\Pass_Checker\bin\Debug\Pass_Checker.exe
+D:\Программирование\C#\Проекты\Pass_Checker\bin\Debug\Pass_Checker.pdb
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.csprojAssemblyReference.cache
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.Form1.resources
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.Properties.Resources.resources
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.csproj.GenerateResource.cache
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.exe
+D:\Программирование\C#\Проекты\Pass_Checker\obj\Debug\Pass_Checker.pdb

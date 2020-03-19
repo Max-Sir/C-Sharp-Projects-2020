@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pass_Checker", "Pass_Checker.csproj", "{B07184A4-3860-4017-86BB-B4E17920D3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07184A4-3860-4017-86BB-B4E17920D3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07184A4-3860-4017-86BB-B4E17920D3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07184A4-3860-4017-86BB-B4E17920D3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07184A4-3860-4017-86BB-B4E17920D3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C852EBA6-35DA-4B45-B1B1-BC6CBC930090}
+	EndGlobalSection
+EndGlobal

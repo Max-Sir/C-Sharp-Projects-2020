@@ -1,0 +1,6 @@
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\bin\Debug\C_Sharp_Hello_World.exe.config
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\bin\Debug\C_Sharp_Hello_World.exe
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\bin\Debug\C_Sharp_Hello_World.pdb
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\obj\Debug\C_Sharp_Hello_World.csprojAssemblyReference.cache
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\obj\Debug\C_Sharp_Hello_World.exe
+D:\Программирование\C#\Проекты\C_Sharp_Hello_World\obj\Debug\C_Sharp_Hello_World.pdb

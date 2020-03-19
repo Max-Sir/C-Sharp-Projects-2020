@@ -1,0 +1,16 @@
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.exe
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.deps.json
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.runtimeconfig.json
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.runtimeconfig.dev.json
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.dll
+D:\Программирование\C#\Проекты\WPF_App_Hello\bin\Debug\netcoreapp3.1\WPF_App_Hello.pdb
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.csprojAssemblyReference.cache
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello_MarkupCompile.cache
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.g.resources
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.AssemblyInfoInputs.cache
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.AssemblyInfo.cs
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.dll
+D:\Программирование\C#\Проекты\WPF_App_Hello\obj\Debug\netcoreapp3.1\WPF_App_Hello.pdb

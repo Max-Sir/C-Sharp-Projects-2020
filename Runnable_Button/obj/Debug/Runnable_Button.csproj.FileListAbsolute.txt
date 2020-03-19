@@ -1,0 +1,9 @@
+D:\Программирование\C#\Проекты\Runnable_Button\bin\Debug\Runnable_Button.exe.config
+D:\Программирование\C#\Проекты\Runnable_Button\bin\Debug\Runnable_Button.exe
+D:\Программирование\C#\Проекты\Runnable_Button\bin\Debug\Runnable_Button.pdb
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.csprojAssemblyReference.cache
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.Form1.resources
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.Properties.Resources.resources
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.csproj.GenerateResource.cache
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.exe
+D:\Программирование\C#\Проекты\Runnable_Button\obj\Debug\Runnable_Button.pdb
